@@ -1,0 +1,12 @@
+       
+        Cyclist Detection and Warning System
+
+Tim Grunshaw
+November 2013       
+        
+Summary
+-------
+
+This source code the Cyclist Detection and Warning System. It is written in Python. 
+The main file is cyclist_detector.py. Each of the obd, indicator, leds, and sensor
+(ultrasound) files are relatively self-descriptive to what they achieve.
